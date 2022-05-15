@@ -32,7 +32,13 @@ session_start();
     <h1> edit by nhanh 1</h1>
  <h2> Thêm dòng để người khác pull về </h2>
 
+
  <h1> Conflict demo new </h1>
+
+ 
+
+ 
+
     <!-- Header -->
     <div class="container-fluid">
         <header>
