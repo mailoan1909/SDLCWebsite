@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+header h1 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: antiquewhite;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #20212a;
+    color: whitesmoke;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+header input {
+    width: 400px;
+}
+
+.col-lg-6 {
+    display: flex;
+    justify-content: center;
+}
+
+.content .row {
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.col-lg-4 {
+    padding: 0;
+    margin: 0;
+}
+
+.search {
+    width: 500px;
+    background-color: #2C2E43;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #2C2E43;
+    width: 100px;
+    margin-left: -50px;
+    color: whitesmoke;
+}
+
+.content {
+    padding-top: 30px;
+    background-color: #2C2E43;
+    color: #ffffff;
+    padding-bottom: 150px;
+}
+
+.content h2 {
+    text-align: center;
+}
+
+.content input {
+    margin-left: 15px;
+    background-color: rgb(211, 193, 193);
+    border-radius: 5px;
+    width: 100%;
+}
+
+.content select {
+    margin-left: 15px;
+    background-color: rgb(211, 193, 193);
+    border-radius: 5px;
+    width: 100%;
+}
+
+.content td {
+    padding: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+.admin-manage,
+.song-manage,
+.artist-manage form {
+    width: 100%;
+}
+
+footer {
+    padding-top: 50px;
+    padding-left: 5px;
+    padding-bottom: 50px;
+    background-color: #20212a;
+}
